@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://jpa03-powertriceps.dokku-03.cs.ucsb.edu/>
+Running at: <https://jpa03-powertriceps.dokku-03.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
